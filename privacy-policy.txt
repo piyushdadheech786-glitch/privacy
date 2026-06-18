@@ -1,0 +1,52 @@
+Privacy Policy for Divya Jap Mandir
+
+Effective date: June 18, 2026
+
+Divya Jap Mandir is a devotional app for offline jap counting, mantra reading, chalisa, aarti, daily sadhana, and spiritual inspiration.
+
+Information We Collect
+
+Divya Jap Mandir does not require login and does not ask users to provide personal information such as name, phone number, contacts, photos, or precise location.
+
+The app may store devotional preferences locally on the user's device, such as language preference, selected mala, jap count, streak, sankalp note, no-ads status, and daily sadhana history. This data stays on the user's device.
+
+Ads and Third-Party Services
+
+Divya Jap Mandir uses Google AdMob to show ads. Google AdMob may collect and process data such as device identifiers, app interactions, approximate location, diagnostics, and advertising-related information to provide ads, analytics, fraud prevention, and service improvement.
+
+Google AdMob and Google Play services handle this data according to Google's policies:
+https://policies.google.com/privacy
+
+In-App Purchases
+
+Divya Jap Mandir may offer a one-time purchase to remove ads. Payments are processed by Google Play Billing. The app does not collect or store payment card details. Purchase status may be stored locally on the device and/or managed through Google Play.
+
+How We Use Information
+
+Information is used to:
+- Provide app features such as jap counter, daily sadhana, and preferences
+- Show ads through Google AdMob
+- Support remove-ads purchase through Google Play Billing
+- Improve app stability and user experience
+
+Data Sharing
+
+We do not sell personal data. Data may be processed by Google services such as AdMob and Google Play Billing as described in Google's privacy policy.
+
+Children's Privacy
+
+Divya Jap Mandir is intended for a general audience and is not specifically directed to children under 13. If you are a parent or guardian and believe a child has provided personal information, please contact us.
+
+Security
+
+We use reasonable measures to keep app data safe. Most devotional app data is stored locally on the user's device.
+
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a new effective date.
+
+Contact Us
+
+If you have questions about this Privacy Policy, contact us at:
+
+piyushdadheech810@gmail.com
